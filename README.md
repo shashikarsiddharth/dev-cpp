@@ -1,2 +1,2 @@
 # dev-cpp
-Brushing DS and Algorithms using Cpp
+### Brushing Data Structures and Algorithms using Cpp
