@@ -31,6 +31,7 @@ int main()
 
     // Popping or deleting elements in heap
     pop_heap(v.begin(),v.end());
+    v.pop_back();
 
     cout << "After deleting an element\n";
     for(i = 0; i < v.size(); i++) 
